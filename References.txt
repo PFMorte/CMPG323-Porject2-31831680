@@ -1,0 +1,6 @@
+https://www.youtube.com/results?search_query=microsoft+entity+framework+core+scaffolding+command+line+2022
+https://docs.microsoft.com/en-us/ef/core/cli/dotnet
+https://www.bing.com/images/search?view=detailV2&ccid=5tUaIJ%2BI&id=FF796FC019EDE313AC98A5A6EA4CDD6496DB9DDA&thid=OIP.5tUaIJ-I8bLQ7BaG0q50vwAAAA&mediaurl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Ftroubleshoot%2Fsql%2Fconnect%2Fmedia%2Fsolving-connectivity-errors%2Fhide-extensions-for-known-file-types.png&exph=430&expw=345&q=changing+a+text+file+to+udl&simid=608040040981876854&form=IRPRST&ck=2F131BE6F6F3BB197E46A3D2DF5A6149&selectedindex=5&ajaxhist=0&ajaxserp=0&vt=0&sim=11&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.e6d51a209f88f1b2d0ec1686d2ae74bf%3Frik%3D2p3blmTdTOqmpQ%26pid%3DImgRaw%26r%3D0
+https://docs.microsoft.com/en-us/ef/core/cli/powershell
+https://docs.microsoft.com/en-us/azure/mysql/single-server/how-to-connection-string
+https://docs.microsoft.com/en-us/sql/ssms/quickstarts/ssms-connect-query-sql-server?view=sql-server-ver16
